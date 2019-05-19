@@ -1,0 +1,24 @@
+<link href="https://fonts.googleapis.com/css?family=Anton|Indie+Flower&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower&display=swap" rel="stylesheet">
+
+.layout{margin-left: auto;
+margin-right: auto;
+width: 1200px;
+margin-top: 20px;
+}
+.box{
+	width: 33.33%;
+	margin-bottom: 2px;
+	float: left;
+	padding: 10px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.box div{
+	padding: 15px;
+	background: #e8e8e8;
+	text-align: center;
+}
+.box h2{font-family: 'Lobster', cursive;
+}
+.box p{font-family: 'Indie Flower', cursive;}
